@@ -1,7 +1,6 @@
 # eccwhat
-Html Command line startup tool 
-
-Shows HTML for easy command parameter generation.
+Html Command line argument startup tool 
+Lets you write html to startup your command line program.
 
 Put the name of the runtime in eccwhat.html
 Do your think with HTML to explain what the user is doing.
