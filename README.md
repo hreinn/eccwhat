@@ -23,4 +23,4 @@ I wrote this to solve a problem between chair and computer, hopefully it helps y
 
 f.x. 
 <img src='http://t.np.is/green/20160304231905settings.png'>
-<img src='http://t.np.is/green/20160304232844start.png'>
+<img src='http://t.np.is/green/20160304232836settings.png'>
