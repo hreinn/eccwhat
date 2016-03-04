@@ -17,6 +17,6 @@ Pressing ok will run theprogram with the parameters.
 
 window.external.callback(theprogram.value,thename.value, theage.value, !thecheckmybox.checked ? '' : '--recursive');
 
-Will call theprogram <thename.value> <theage.value> <--recursive/''>
+Will call theprogram "thename.value" "theage.value" "--recursive/''"
 
 I wrote this to solve a problem between chair and computer, hopefully it helps you aswell.
