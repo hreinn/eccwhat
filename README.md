@@ -1,14 +1,16 @@
 # eccwhat
 Html Command line startup tool 
 
-To use it, 
+Shows HTML for easy command parameter generation.
 
-edit eccwhat.html 
+Put the name of the runtime in eccwhat.html
+Do your think with HTML to explain what the user is doing.
 
+OK starts the program for you.
+
+Details.
 <input type="hidden" id="theprogram" value="s3cmd.bat"/>
-
 Change this line to the command line program you want the html to generate parameters from.
-
 f.x. c:\python\python.exe 
 
 Then write html+script that generates those paramters you want.
