@@ -2,6 +2,7 @@
 <h2>Prompt user for input with Html&javascript, start program with command line arguments. </h2><br/>
 Lets you write html to startup your command line program.<br/>
 
+
 Put the name of the runtime in eccwhat.html<br/>
 Do your thing with HTML to explain what the user is doing.<br/>
 You can write simple javascript to get user input or do more complex logic to generate the startup paramters.<br/>
@@ -22,6 +23,11 @@ f.x.
 window.external.callback(theprogram.value,thename.value, theage.value, !thecheckmybox.checked ? '' : '--recursive');
 
 Will call theprogram "thename.value" "theage.value" "--recursive/''"
+
+<p style="color:red;">If you want to start dos commands, you have to use cmd.exe as the program. and arguments have to start with /c,<br/> 
+window.external.callback('cmd.exe','/c dir'); f.x. 
+</p>
+
 
 I wrote this to solve a problem between chair and computer, hopefully it helps you aswell.
 
