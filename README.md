@@ -1,5 +1,5 @@
 # eccwhat
-<h2>Html Command line argument startup tool </h2><br/>
+<h2>Prompt user for input with Html&javascript, start program with command line arguments. </h2><br/>
 Lets you write html to startup your command line program.<br/>
 
 Put the name of the runtime in eccwhat.html<br/>
